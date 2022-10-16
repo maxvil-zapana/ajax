@@ -7,7 +7,12 @@
     <title>Document</title>
 </head>
 <body>
+    <div id="myContent"></div>
     
-    <script src="prueba.js"></script>
+
+<button id="btn">EJECUTAR</button>
+
+
+    <script src="script.js"></script>
 </body>
 </html>

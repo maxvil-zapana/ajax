@@ -7,7 +7,15 @@
     <title>Document</title>
 </head>
 <body>
-    
-    <script src="prueba.js"></script>
+    <h1>Hola</h1>
+    <div id="content"></div>
+    <form action="data.html" method="GET">
+        <button>Cargar clásicamente</button>
+    </form>
+
+<button id="btnLoad">cargar via ajax</button>
+
+
+    <script src="script.js"></script>
 </body>
 </html>

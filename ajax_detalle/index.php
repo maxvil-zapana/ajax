@@ -7,7 +7,13 @@
     <title>Document</title>
 </head>
 <body>
-    
-    <script src="prueba.js"></script>
+    <h1>Hola</h1>
+    <div id="content"></div>
+    <div id="loading">Cargando</div>
+
+<button id="btnLoad">cargar via ajax</button>
+
+
+    <script src="script.js"></script>
 </body>
 </html>
